@@ -1,5 +1,5 @@
 {
-  "title": "OGPチェッカー",
-  "description": "FacebookやTwitterでシェアされた際の見た目をチェック出来ます。",
-  "url":"https://nabettu.github.io/ogp-checker"
+  "title": "GPSテスト",
+  "description": "移動距離を計算してみます",
+  "url":"https://nabettu.github.io/gpsTester"
 }
